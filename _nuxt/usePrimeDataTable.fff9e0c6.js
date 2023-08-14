@@ -1,0 +1,1 @@
+import{q as t}from"./entry.a1f6cece.js";function f(){const o=t([]),r=t({}),e=t();function n(){var a;(a=e.value)==null||a.exportCSV()}return{tableData:o,filters:r,dataTableRef:e,exportCSV:n}}export{f as u};
