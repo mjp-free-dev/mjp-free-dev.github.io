@@ -1,0 +1,1 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as t,c as e,v as r,s as c}from"./entry.ab75e8ac.js";const a="_root_p18ls_1",l={root:a},n={};function _(s,p){return t(),e("div",{class:c(s.$style.root)},[r(s.$slots,"default")],2)}const d={$style:l},i=o(n,[["render",_],["__cssModules",d]]);export{i as A};
