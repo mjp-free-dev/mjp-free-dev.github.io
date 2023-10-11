@@ -1,0 +1,2 @@
+import{_ as o}from"./_plugin-vue_export-helper.c27b6911.js";import{o as r,c as t,D as n}from"./entry.0a3c679f.js";const s={};function c(e,a){return r(),t("strong",null,[n(e.$slots,"default")])}const _=o(s,[["render",c]]);export{_ as default};
+//# sourceMappingURL=ProseStrong.86a1a28d.js.map
