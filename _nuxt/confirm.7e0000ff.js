@@ -1,0 +1,2 @@
+import{f as i,g as p,h as u,i as m,o as d,c as _,A as l}from"./entry.bb3d02c6.js";const k=i({__name:"confirm",setup(f){const r=p(l),o=u(),e=new URL(o.fullPath,"https://example.com/").searchParams,t=e.get("code"),c=e.get("error"),s=e.get("error_code"),n=e.get("error_description"),a={code:t,error:c,errorCode:s,errorDescription:n};return m(()=>r.verifyMagicLink(a)),(g,h)=>(d(),_("div",null,"Производится вход..."))}});export{k as default};
+//# sourceMappingURL=confirm.7e0000ff.js.map
