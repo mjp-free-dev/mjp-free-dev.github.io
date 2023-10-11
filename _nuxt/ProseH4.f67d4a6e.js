@@ -1,1 +1,2 @@
 import{f as r,af as i,o as t,c as o,q as f,D as n}from"./entry.392f5501.js";const l=["id"],u=["href"],d=4,_=r({__name:"ProseH4",props:{id:{}},setup(p){const{anchorLinks:e}=i().public.content,a=(e==null?void 0:e.depth)>=d&&!(e!=null&&e.exclude.includes(d));return(s,c)=>(t(),o("h4",{id:s.id},[s.id&&f(a)?(t(),o("a",{key:0,href:`#${s.id}`},[n(s.$slots,"default")],8,u)):n(s.$slots,"default",{key:1})],8,l))}});export{_ as default};
+//# sourceMappingURL=ProseH4.f67d4a6e.js.map

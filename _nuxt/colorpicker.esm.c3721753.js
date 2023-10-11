@@ -78,3 +78,4 @@ import{O as g}from"./overlayeventbus.esm.2438747c.js";import{G as k,a4 as p,Z as
     cursor: pointer;
 }
 `;I(O);V.render=R;export{V as default};
+//# sourceMappingURL=colorpicker.esm.c3721753.js.map
