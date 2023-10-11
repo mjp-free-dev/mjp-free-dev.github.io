@@ -1,1 +1,0 @@
-{"version":3,"file":"ProseP.416ea778.js","sources":["../../../../node_modules/.pnpm/@nuxt+content@2.7.2/node_modules/@nuxt/content/dist/runtime/components/Prose/ProseP.vue"],"sourcesContent":["<template>\n  <p><slot /></p>\n</template>\n"],"names":["_cache","_openBlock","_createElementBlock"],"mappings":"0IACiBA,EAAA,QAAJC,EAAA,EAAAC,EAAA,IAAA,KAAA","x_google_ignoreList":[0]}
