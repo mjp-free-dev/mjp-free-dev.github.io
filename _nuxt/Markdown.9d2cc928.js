@@ -1,0 +1,2 @@
+import s from"./ContentSlot.d382de2a.js";import{f as o,aA as f,ah as m,ac as p}from"./entry.02f2e83f.js";import"./utils.b2abffa2.js";import"./preview.d994f31c.js";const d=o({name:"Markdown",extends:s,setup(t){const{parent:e}=f(),{between:n,default:a}=m(),r=p(()=>typeof t.unwrap=="string"?t.unwrap.split(" "):["*"]);return{fallbackSlot:a,tags:r,between:n,parent:e}}});export{d as default};
+//# sourceMappingURL=Markdown.9d2cc928.js.map
